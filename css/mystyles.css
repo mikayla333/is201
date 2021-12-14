@@ -1,0 +1,36 @@
+
+/*DO 4 EDITS TOTAL*/ 
+
+/*this is for the the 1st page: index page*/
+.subheading2{
+        color: #71b0c0;
+        font-style: italic;
+        
+}
+.edit2{
+        font-style: oblique;
+}
+.edit3{
+        color: #c6e1e7;
+        text-decoration: underline;
+
+}
+/*2nd page: about me*/
+.edit4{
+        color: #6d3468;
+
+}
+.edit5{
+        font-weight: bolder;
+        color: #fad1f8;
+}
+
+.edit6{
+        color: #7cb4d4;
+        font-weight: bold;
+}
+.edit7{
+        padding-left: 15px;
+        color: #7cb4d4;
+        text-decoration: underline;
+}
